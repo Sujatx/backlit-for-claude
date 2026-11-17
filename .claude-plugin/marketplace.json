@@ -1,0 +1,6 @@
+{
+  "name": "backlit",
+  "owner": { "name": "Sujatx" },
+  "description": "ASUS TUF keyboard lighting that follows Claude Code.",
+  "plugins": [{ "name": "backlit", "source": "./" }]
+}

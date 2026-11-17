@@ -1,0 +1,10 @@
+{
+  "name": "backlit",
+  "version": "0.1.1",
+  "description": "ASUS TUF keyboard lighting that follows Claude Code: orange breathing while working, red when it needs you, green when done.",
+  "author": { "name": "Sujatx", "url": "https://github.com/Sujatx" },
+  "homepage": "https://github.com/Sujatx/backlit-for-claude",
+  "repository": "https://github.com/Sujatx/backlit-for-claude",
+  "license": "MIT",
+  "keywords": ["asus", "tuf", "rgb", "keyboard", "claude-code", "g-helper"]
+}
